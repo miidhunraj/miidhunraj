@@ -1,5 +1,4 @@
-
-<h1 align="center">I'm Midhun Raj</h1>
+<h1 align="center"> I'm Midhun Raj</h1>
 <h3 align="center">Cybersecurity Enthusiast | AI Explorer | BCA Student</h3>
 
 <p align="center">
@@ -8,9 +7,9 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-🔐 Cybersecurity-focused **BCA student at Srinivas University (Pandeshwar Campus)**  
+🔐 Cybersecurity-focused **BCA student at Srinivas University**  
 🏆 **2nd Place – Hackathon 1.0 (Srinivas University)**  
 ☁️ Certified **Generative AI Professional (OCI)**  
 ☁️ **Google Cloud Skill Badge Holder**  
@@ -39,7 +38,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 🔹 **Gesture Controlled Mouse**  
 AI-based hand gesture system to control mouse actions using OpenCV + MediaPipe.
@@ -76,6 +75,6 @@ Voice controlled assistant capable of executing PC commands and AI responses.
 
 ![](https://komarev.com/ghpvc/?username=miidhunraj&color=orange)
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/miidhunraj/miidhunraj/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=0&color=00FFAA&width=100&lines=THANKS!" />
+</p>
