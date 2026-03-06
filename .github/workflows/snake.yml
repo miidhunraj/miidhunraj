@@ -1,13 +1,17 @@
 name: generate-snake
+
 on:
   schedule:
       - cron: "0 0 * * *"
    workflow_dispatch:
+   
 permissions:
   contents: write
+  
   jobs:
     snake:
       runs-on: ubuntu-latest
+      
       steps:
         - name: Generate snake
           uses: Platane/snk@v3
@@ -16,6 +20,7 @@ permissions:
             outputs: |
               dist/snake.svg
               dist/snake-dark.svg
+              
         - name: Deploy snake
           uses: peaceiris/actions-gh-pages@v3
           with:
