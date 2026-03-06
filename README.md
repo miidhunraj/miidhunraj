@@ -82,7 +82,7 @@ Voice controlled assistant capable of executing PC commands and AI responses.
 
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=miidhunraj&color=blue)
 
 ## 🏆 GitHub Achievements
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miidhunraj&show_icons=true&theme=tokyonight)
