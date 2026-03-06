@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Midhun Raj</h1>
+<h1 align="center">I'm Midhun Raj</h1>
 <h3 align="center">Cybersecurity Enthusiast | AI Explorer | BCA Student</h3>
 
 <p align="center">
