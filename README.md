@@ -76,39 +76,6 @@ Voice controlled assistant capable of executing PC commands and AI responses.
 
 ![](https://komarev.com/ghpvc/?username=miidhunraj&color=orange)
 
-## 💻 Terminal
+## 🐍 Contribution Snake
 
-```bash
-┌──(miidhunraj㉿github)-[~/profile]
-└─$ whoami
-Midhun Raj
-
-┌──(miidhunraj㉿github)-[~/profile]
-└─$ role
-Cybersecurity Student | AI Explorer
-
-┌──(miidhunraj㉿github)-[~/profile]
-└─$ education
-BCA - Srinivas University
-
-┌──(miidhunraj㉿github)-[~/profile]
-└─$ achievements
-• 2nd Place - Hackathon 1.0
-• Google Cloud Skill Badge
-• OCI Generative AI Professional
-
-┌──(miidhunraj㉿github)-[~/profile]
-└─$ skills
-Python | C++ | JavaScript | OSINT | Ethical Hacking
-
-┌──(miidhunraj㉿github)-[~/profile]
-└─$ tools
-Kali Linux
-Kali NetHunter
-Mr.Holmes
-Custom Python Automation
-
-┌──(miidhunraj㉿github)-[~/profile]
-└─$ mission
-Learn → Build → Break → Secure
-```
+![snake gif](https://github.com/miidhunraj/miidhunraj/blob/output/github-contribution-grid-snake.svg)
