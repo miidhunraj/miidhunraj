@@ -55,13 +55,6 @@ Voice controlled assistant capable of executing PC commands and AI responses.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=miidhunraj&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miidhunraj&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -75,16 +68,47 @@ Voice controlled assistant capable of executing PC commands and AI responses.
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: https://linkedin.com/in/YOURPROFILE  
-💻 GitHub: https://github.com/YOUR_USERNAME  
+💼 LinkedIn: https://linkedin.com/in/midhunraj06  
+💻 GitHub: https://github.com/miidhunraj  
 
 ---
 
-![snake gif](https://github.com/miidhunraj/miidhunraj/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=miidhunraj&color=orange)
 
-## 🏆 GitHub Achievements
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=miidhunraj&show_icons=true&theme=tokyonight)
+## 💻 Terminal
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miidhunraj&layout=compact&theme=tokyonight)
+```bash
+┌──(miidhunraj㉿github)-[~/profile]
+└─$ whoami
+Midhun Raj
+
+┌──(miidhunraj㉿github)-[~/profile]
+└─$ role
+Cybersecurity Student | AI Explorer
+
+┌──(miidhunraj㉿github)-[~/profile]
+└─$ education
+BCA - Srinivas University
+
+┌──(miidhunraj㉿github)-[~/profile]
+└─$ achievements
+• 2nd Place - Hackathon 1.0
+• Google Cloud Skill Badge
+• OCI Generative AI Professional
+
+┌──(miidhunraj㉿github)-[~/profile]
+└─$ skills
+Python | C++ | JavaScript | OSINT | Ethical Hacking
+
+┌──(miidhunraj㉿github)-[~/profile]
+└─$ tools
+Kali Linux
+Kali NetHunter
+Mr.Holmes
+Custom Python Automation
+
+┌──(miidhunraj㉿github)-[~/profile]
+└─$ mission
+Learn → Build → Break → Secure
+```
