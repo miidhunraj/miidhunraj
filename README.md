@@ -67,7 +67,7 @@ Voice controlled assistant capable of executing PC commands and AI responses.
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=miidhunraj&theme=tokyonight"/>
 </p>
 
 ---
