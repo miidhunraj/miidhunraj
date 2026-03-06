@@ -78,4 +78,4 @@ Voice controlled assistant capable of executing PC commands and AI responses.
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/miidhunraj/miidhunraj/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/miidhunraj/miidhunraj/blob/output/github-contribution-grid-snake.svg)
