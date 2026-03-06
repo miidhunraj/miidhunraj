@@ -1,55 +1,78 @@
-# 👋 Hi, I'm Midhun Raj! 
-### BCA Student | Python Developer | Cybersecurity Enthusiast
+<h1 align="center">Hi 👋, I'm Midhun Raj</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miidhunraj&show_icons=true&theme=radical" alt="Midhun's Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;AI+%26+Automation+Explorer;Python+Developer;OSINT+Researcher;Hackathon+Winner" />
 </p>
 
----
-
-### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miidhunraj&show_icons=true&theme=tokyonight" alt="Midhun's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miidhunraj&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
-
-### 🚀 About Me
-I'm a **BCA Student** at **Srinivas Institute of Computer Science and Information Science**. I spend my time balancing my degree, working part-time at **Wow! Momo**, and building automation tools. My ultimate goal? Building a **J.A.R.V.I.S.-like AI assistant**.
-
-- 🔭 **Current Project:** `AuraControl` — Controlling PCs with hand gestures using OpenCV.
-- 📂 **Recent Tool:** `Easy.Pluck` — A Flask-based local file-sharing system.
-- 🛡️ **Self-Study:** Ethical Hacking, Nmap scanning, and Bug Bounty basics.
-- 🥟 **Fun Fact:** If you need a recommendation for the best Chinese Thali or Darjeeling Momos, I’m your guy.
-
----
-
-### 🛠️ My Tech Toolbox
-<p align="left">
-  <a href="https://python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> </a>
-  <a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=miidhunraj&theme=tokyonight&no-bg=true&column=7" alt="Trophies" />
 </p>
 
 ---
 
-### 📊 Top Languages
+## 🧠 About Me
+
+🔐 Cybersecurity-focused **BCA student at Srinivas University (Pandeshwar Campus)** 🏆 **2nd Place – Hackathon 1.0 (Srinivas University)** ☁️ Certified **Generative AI Professional (OCI)** ☁️ **Google Cloud Skill Badge Holder** 🕵️ Passionate about **OSINT, Ethical Hacking & Security Research** ⚡ Building **AI tools, bots, and automation systems** 🥟 Part-time at **Wow! Momo** — Coding & Momos are a vibe.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Web
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛡️ Cybersecurity Arsenal
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-00FFAA?style=for-the-badge&logo=nmap&logoColor=black)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+🔹 **Gesture Controlled Mouse (AuraControl)** AI-based hand gesture system to control mouse actions using OpenCV + MediaPipe.
+
+🔹 **Instagram OSINT Telegram Bot** Bot that extracts Instagram profile data, reels, followers, stories and more.
+
+🔹 **Easy Pluck** Automation-based tool designed to simplify repetitive digital tasks.
+
+🔹 **AI Assistant (J.A.R.V.I.S Inspired)** Voice controlled assistant capable of executing PC commands and AI responses.
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miidhunraj&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=miidhunraj&show_icons=true&theme=tokyonight&border_color=00FFAA" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miidhunraj&layout=compact&theme=tokyonight&border_color=00FFAA" height="170" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/midhunraj06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Midhun Raj" height="30" width="40" /></a>
-<a href="https://instagram.com/midhun_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midhun_raj" height="30" width="40" /></a>
+## 🔥 Activity & Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miidhunraj&theme=tokyonight&fire=00FFAA&ring=BD93F9" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/miidhunraj/miidhunraj/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-### 🏆 Achievements
-* **Hackathon Winner:** Secured **2nd Place** at the Srinivas University Hackathon.
-* **Employee of the Month:** Received an appreciation certificate from **Wow! Momo**.
+## 🌐 Connect With Me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/midhunraj06)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/miidhunraj)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/midhun_raj)
+
+---
+
+## 🧩 Current Mission
+Building the most advanced AI-human interface...
