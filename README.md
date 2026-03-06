@@ -79,4 +79,10 @@ Voice controlled assistant capable of executing PC commands and AI responses.
 
 ---
 
-## 🧩 Current Mission
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:0077FF&height=200&section=header&text=Midhun%20Raj&fontSize=40)
