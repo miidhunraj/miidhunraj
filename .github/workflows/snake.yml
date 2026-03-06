@@ -11,8 +11,7 @@ contents: write
 jobs:
 snake:
 runs-on: ubuntu-latest
-
-```
+ 
 steps:
   - name: Generate GitHub contribution snake
     uses: Platane/snk@v3
@@ -28,4 +27,4 @@ steps:
       github_token: ${{ secrets.GITHUB_TOKEN }}
       publish_dir: ./dist
       publish_branch: output
-```
+
