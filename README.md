@@ -1,74 +1,174 @@
-<h1 align="center"> I'm Midhun Raj</h1>
-<h3 align="center">Cybersecurity Enthusiast | AI Explorer | BCA Student</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFAA&center=true&vCenter=true&width=500&lines=Ethical+Hacker+in+Progress;AI+%26+Cybersecurity+Explorer;Python+Developer;OSINT+Researcher;Hackathon+Winner" />
-</p>
+```
+███╗   ███╗██╗██████╗ ██╗  ██╗██╗   ██╗███╗   ██╗    ██████╗  █████╗      ██╗
+████╗ ████║██║██╔══██╗██║  ██║██║   ██║████╗  ██║    ██╔══██╗██╔══██╗     ██║
+██╔████╔██║██║██║  ██║███████║██║   ██║██╔██╗ ██║    ██████╔╝███████║     ██║
+██║╚██╔╝██║██║██║  ██║██╔══██║██║   ██║██║╚██╗██║    ██╔══██╗██╔══██║██   ██║
+██║ ╚═╝ ██║██║██████╔╝██║  ██║╚██████╔╝██║ ╚████║    ██║  ██║██║  ██║╚█████╔╝
+╚═╝     ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ 
+```
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;AI+%26+Automation+Builder+%F0%9F%A4%96;OSINT+Researcher+%F0%9F%95%B5%EF%B8%8F;Ethical+Hacker+in+Progress+%F0%9F%90%89;BCA+%40+Srinivas+University+%F0%9F%8E%93" alt="Typing SVG" />
 
-##  About Me
-I'm a Cybersecurity-focused BCA student at Srinivas University, Pandeshwar Campus, with a strong interest in security research and practical technology implementation. I recently secured 2nd Place in Hackathon 1.0 at Srinivas University, demonstrating my ability to apply technical knowledge to real-world problem solving.
+<br/>
 
-🔐 Cybersecurity-focused **BCA student at Srinivas University**  
-🏆 **2nd Place – Hackathon 1.0 (Srinivas University)**  
-☁️ Certified **Generative AI Professional (OCI)**  
-☁️ **Google Cloud Skill Badge Holder**  
-🕵️ Passionate about **OSINT, Ethical Hacking & Security Research**  
-⚡ Building **AI tools, bots, and automation systems**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/midhunraj06)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miidhunraj)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miidhunee)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FFAA.svg?style=for-the-badge&logo=firefox&logoColor=black)](https://miidhunraj.github.io/port)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miidhunraj@gmail.com)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=miidhunraj&color=00FFAA&style=flat-square&label=PROFILE+VIEWS)
 
-## 🛠️ Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat-square&logo=openstack&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=flat-square&logo=proto.io&logoColor=00e5ff) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nmap](https://img.shields.io/badge/Nmap-00FFAA?style=for-the-badge&logo=nmap&logoColor=black)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
-
-
-### Cybersecurity Tools
-🐉 Kali Linux  
-📱 Kali NetHunter  
-🔎 OSINT Tools  
-🕶️ Mr.Holmes  
-🛠️ Custom Python Security Scripts  
+</div>
 
 ---
 
-##  Projects
+## `whoami`
 
-🔹 **Air-Gap**  
-AI-based hand gesture system to control mouse actions using OpenCV + MediaPipe.
+```bash
+$ cat /etc/midhun/profile.conf
+```
 
-🔹 **Instagram OSINT Telegram Bot**  
-Bot that extracts Instagram profile data, reels, followers, stories and more.
-
-🔹 **Easy Pluck**  
-Automation-based tool designed to simplify repetitive digital tasks.
-
-🔹 **AI Assistant (J.A.R.V.I.S Inspired)**  
-Voice controlled assistant capable of executing PC commands and AI responses.
-
----
-
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=miidhunraj&theme=tokyonight"/>
-</p>
+```yaml
+name        : Midhun Raj
+role        : Cybersecurity Enthusiast | AI Explorer | BCA Student
+university  : Srinivas University, Pandeshwar Campus
+status      : [ ACTIVE ]
+focus       : Ethical Hacking · OSINT · AI/ML · Automation
+achievement : 🏆 2nd Place — Hackathon 1.0 @ Srinivas University
+certifications:
+  - Generative AI Professional (Oracle OCI)
+  - Google Cloud Skill Badge Holder
+current_ops : Building AI tools, bots & security automation systems
+```
 
 ---
 
-## 🌐 Connect With Me
+## `./skills --list`
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/midhunraj06)
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/miidhunraj)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/miidhunee)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:miidhunraj@gmail.com)
-[<img src="https://img.shields.io/badge/Portfolio-607D8B?style=for-the-badge&logo=react&logoColor=white" />](https://miidhunraj.github.io/port)
+### 🔐 Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-00FFAA?style=flat-square&logoColor=black)
+![Metasploit](https://img.shields.io/badge/Metasploit-1A1A1A?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-FF4444?style=flat-square&logoColor=white)
 
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=miidhunraj&color=orange) 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=0&color=00FFAA&width=100&lines=THANKS!" />
-</p>
+### 🤖 AI / ML
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
+
+### ☁️ Cloud & Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
+
+### 🛠️ Frameworks & Tools
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## `ls -la ./projects/`
+
+```
+drwxr-xr-x  midhun  staff   projects/
+├── 🖐️  air-gap/              — Gesture-controlled mouse via OpenCV + MediaPipe
+├── 🕵️  insta-osint-bot/      — Instagram OSINT extractor Telegram Bot
+├── ⚡  easy-pluck/           — Automation tool for repetitive digital tasks
+└── 🤖  jarvis-assistant/     — Voice-controlled AI assistant for PC commands
+```
+
+### 🖐️ Air-Gap
+> AI-powered hand gesture recognition system that replaces the mouse entirely. Built with **OpenCV + MediaPipe**, it tracks hand landmarks in real-time to control cursor movement, clicks, and scrolling — zero hardware required.
+
+### 🕵️ Instagram OSINT Telegram Bot
+> A powerful OSINT tool disguised as a Telegram bot. Input a target Instagram handle and extract profile metadata, reels, followers, stories, and more. Built for ethical research and digital footprint analysis.
+
+### ⚡ Easy Pluck
+> Automation-first utility tool designed to eliminate repetitive digital workflows. Smart scripting meets user-friendly execution.
+
+### 🤖 J.A.R.V.I.S Inspired AI Assistant
+> Voice-activated desktop assistant capable of natural language AI responses and direct PC command execution. Because why not have your own Stark-level assistant?
+
+---
+
+## `./stats --render`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=miidhunraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=FFFFFF&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miidhunraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=FFFFFF" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=miidhunraj&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=FF6B35&currStreakLabel=00FFAA" />
+
+</div>
+
+---
+
+## `./achievements --display`
+
+```
+╔══════════════════════════════════════════════════════╗
+║  🏆  2nd Place — Hackathon 1.0 @ Srinivas University ║
+║  ☁️  Oracle OCI Generative AI Professional           ║
+║  ☁️  Google Cloud Skill Badge Holder                 ║
+║  🎓  BCA — Srinivas University, Pandeshwar Campus    ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+## `./connect --all`
+
+<div align="center">
+
+| Platform | Handle |
+|:--------:|:------:|
+| 💼 LinkedIn | [midhunraj06](https://linkedin.com/in/midhunraj06) |
+| 🐙 GitHub | [miidhunraj](https://github.com/miidhunraj) |
+| 📸 Instagram | [miidhunee](https://instagram.com/miidhunee) |
+| 🌐 Portfolio | [miidhunraj.github.io/port](https://miidhunraj.github.io/port) |
+| 📧 Email | [miidhunraj@gmail.com](mailto:miidhunraj@gmail.com) |
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[ SYSTEM STATUS: ONLINE ] — Always learning. Always building. Always hacking (ethically).
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=1&pause=0&color=00FFAA&center=true&vCenter=true&width=300&lines=EOF+%2F%2F+thanks+for+visiting+%3A%3A+" />
+
+</div>
