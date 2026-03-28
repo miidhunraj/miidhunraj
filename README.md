@@ -153,10 +153,10 @@ drwxr-xr-x  midhun  staff   projects/
 
 | Platform | Handle |
 |:--------:|:------:|
-| 💼 LinkedIn | [midhunraj06](https://linkedin.com/in/midhunraj06) |
+| 💼 LinkedIn | [miidhunraj](https://linkedin.com/in/midhunraj06) |
 | 🐙 GitHub | [miidhunraj](https://github.com/miidhunraj) |
 | 📸 Instagram | [miidhunee](https://instagram.com/miidhunee) |
-| 🌐 Portfolio | [miidhunraj.github.io/port](https://miidhunraj.github.io/port) |
+| 🌐 Portfolio | [miidhunraj.com](miidhunraj.live) |
 | 📧 Email | [miidhunraj@gmail.com](mailto:miidhunraj@gmail.com) |
 
 </div>
